@@ -1,1 +1,1 @@
-# little-lemon-app-capstone
+# Little Lemon Food Ordering App
